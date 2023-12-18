@@ -6,3 +6,5 @@
 ###### header6
 
 add 6 headers to this file.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
